@@ -2,5 +2,5 @@
 IPADDR=10.0.135.<DIGIT>
 
 ifconfig $INTERFACE $IPADDR netmask 255.255.255.0
-# ip addr add ${IPADDR}/24 dev $INTERFACE
+# ip addr add ${IPADDR}/24 brd 10.0.135.255 dev $INTERFACE
 # ip link set dev $INTERFACE up
