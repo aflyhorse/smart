@@ -19,3 +19,7 @@ A Repository to store tinc public keys and templates
 
 * Windows: ```tincd -n smart```
 * Linux: ```systemctl start tinc@smart```
+
+### Resource for Windows
+Git: https://git-scm.com/download/win
+Tinc: https://www.tinc-vpn.org/download/ (recommend 1.1-pre branch)
