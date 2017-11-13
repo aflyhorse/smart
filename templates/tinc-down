@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ifconfig $INTERFACE down
+# ip link set dev $INTERFACE down

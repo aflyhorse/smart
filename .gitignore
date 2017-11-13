@@ -1,7 +1,7 @@
 # private key
-rsa_key.priv
+/rsa_key.priv
 # local configuration
-tinc.conf
+/tinc.conf
 # startup and shutdown script
-tinc-up
-tinc-down
+/tinc-up
+/tinc-down
