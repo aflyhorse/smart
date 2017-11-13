@@ -1,7 +1,10 @@
-# private key
+# local keys
 /rsa_key.priv
+/rsa_key.pub
 # local configuration
 /tinc.conf
 # startup and shutdown script
 /tinc-up
 /tinc-down
+# Windows tinc pid
+/pid
