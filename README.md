@@ -13,7 +13,7 @@ A Repository to store tinc public keys and templates
 * Linux: Modify IP in ```tinc-up```
 
 * tinc < 1.1: ```tincd -n smart -K 4096```
-* tinc >= 1.1: ```tinc -n smart generate-rsa-keys 4096```
+* tinc >= 1.1: ```tinc -n smart generate-keys 4096```
 * Public node: Insert ```Address = <IPHERE>``` into host file
 * (Optional) Add ```Subnet = 10.0.135.<DIGIT>/32``` into host file
 
