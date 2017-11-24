@@ -1,5 +1,5 @@
 Address = 101.132.180.75
-Subnet = 10.0.135.191
+Subnet = 10.0.135.191/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAu/7qStJlj2PfaYz5xwx8Yh1jkrBCofzkkoX7vzrsSDO/rBLNWKCz
