@@ -10,7 +10,7 @@ A Repository to store tinc public keys and templates
 * Copy and paste from templates dir
 * Modify hostname in ```tinc.conf```
 
-* Windows: Modify Interface in ```tinc.conf```, setup IP in Network Manager, and disable NetBIOS (optional)
+* Windows: Modify Interface in ```tinc.conf```, rename and setup IP in Network Manager, and disable NetBIOS in Advanced WINS tab (optional)
 * Linux: Modify IP in ```tinc-up```
 
 * tinc < 1.1: ```tincd -n smart -K 4096```
