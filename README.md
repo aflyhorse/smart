@@ -22,6 +22,8 @@ A Repository to store tinc public keys and templates
 * Linux: ```systemctl enable tinc```
 * Linux: ```systemctl enable --now tinc@smart```
 
+* git update: until git pull ; do sleep 5 ; done
+
 
 ### Resource for Windows
 
